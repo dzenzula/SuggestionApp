@@ -10,4 +10,4 @@ For this site was used:
 
 This suggestion site was created for learning purposes only.
 
-![alt text](https://ibb.co/WBDsPwr)
+![Picture of the site](https://i.ibb.co/qm0xWfH/Suggestion-Site.png)
