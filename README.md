@@ -8,4 +8,4 @@ For this site was used:
 - Bootstrap 5
 - Advanced CSS
 
-This suggestion site was created for learning purposed only.
+This suggestion site was created for learning purposes only.
